@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ChatGPT_API_Client": {
+      "commandName": "Project",
+      "commandLineArgs": "\"How to learn .NET?\"",
+      "environmentVariables": {
+        "NETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

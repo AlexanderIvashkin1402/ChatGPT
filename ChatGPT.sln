@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatGPT_API_Client", "ChatGPT_API_Client\ChatGPT_API_Client.csproj", "{18B3A252-6D91-454A-AF8B-8342266846C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecretAppsettingReader", "SecretAppsettingReader\SecretAppsettingReader.csproj", "{4C9BCD80-B1AE-4786-AF4E-C7BA6CF837E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatGTP_WinForm_Client", "ChatGTP_WinForm_Client\ChatGTP_WinForm_Client.csproj", "{F07ED0D4-3D22-4B93-A647-239D8A5A8E5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenAI_Client", "OpenAI_Client\OpenAI_Client.csproj", "{C882AA6A-6B5F-4890-BD47-29A0044352F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenAI_GPT3_CLient", "OpenAI_GPT3_CLient\OpenAI_GPT3_CLient.csproj", "{E21C4E62-1D27-445F-AC2E-BDF2CD2A2AE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18B3A252-6D91-454A-AF8B-8342266846C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B3A252-6D91-454A-AF8B-8342266846C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B3A252-6D91-454A-AF8B-8342266846C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B3A252-6D91-454A-AF8B-8342266846C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C9BCD80-B1AE-4786-AF4E-C7BA6CF837E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C9BCD80-B1AE-4786-AF4E-C7BA6CF837E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C9BCD80-B1AE-4786-AF4E-C7BA6CF837E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C9BCD80-B1AE-4786-AF4E-C7BA6CF837E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F07ED0D4-3D22-4B93-A647-239D8A5A8E5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F07ED0D4-3D22-4B93-A647-239D8A5A8E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F07ED0D4-3D22-4B93-A647-239D8A5A8E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F07ED0D4-3D22-4B93-A647-239D8A5A8E5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C882AA6A-6B5F-4890-BD47-29A0044352F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C882AA6A-6B5F-4890-BD47-29A0044352F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C882AA6A-6B5F-4890-BD47-29A0044352F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C882AA6A-6B5F-4890-BD47-29A0044352F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E21C4E62-1D27-445F-AC2E-BDF2CD2A2AE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E21C4E62-1D27-445F-AC2E-BDF2CD2A2AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E21C4E62-1D27-445F-AC2E-BDF2CD2A2AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E21C4E62-1D27-445F-AC2E-BDF2CD2A2AE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F196C31-9416-4E25-94E0-FA03A73FA338}
+	EndGlobalSection
+EndGlobal
